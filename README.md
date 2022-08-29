@@ -34,12 +34,14 @@ As the project required everyone to develop a tower defence game I decided to us
 
 
 ## Key Learnings
-This project was an enjoyable experience allowing me to demonstrate my knowledge of Unity and C# as well as techniques learnt in this module and other modules while also allowing me to experiment with mobile game development.
+This project allowed me to demonstrate my preexisting knowledge of Unity while also allowing me to explore the tower defence genre, mobile development as well as video game marketing and creating marketing plans.
 
 - Mobile game development
+- Taking a project through a full development cycle
 - Understanding Video game marketing
 - How to create an effective marketing plan for a video game
 
+This project was an enjoyable experience allowing me to demonstrate my knowledge of Unity and C# as well as techniques learnt in this module and other modules while also allowing me to experiment with mobile game development.
 
 ## Setup
 1. Download this project as zip and extract it
